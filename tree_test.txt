@@ -1,0 +1,8 @@
+((((a,b),(c,d)),e),f);
+(taxA,((taxB,taxC),((TaxD,(TaxE,TaxF)),TaxG)));
+((((a,b),(c,d)),e),f);
+(taxA,((taxB,taxC),((TaxD,(TaxE,TaxF)),TaxG)));
+((((a,b),(c,d)),e),f);
+(taxA,((taxB,taxC),((TaxD,(TaxE,TaxF)),TaxG)));
+((((a,b),(c,d)),e),f);
+(taxA,((taxB,taxC),((TaxD,(TaxE,TaxF)),TaxG)));
